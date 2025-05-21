@@ -1,0 +1,28 @@
+{
+  "name": "40_5_band_generator_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zafergursoy82/40_5_Band_Generator_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zafergursoy82/40_5_Band_Generator_Project/issues"
+  },
+  "homepage": "https://github.com/zafergursoy82/40_5_Band_Generator_Project#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "node-random-name": "^1.0.1",
+    "sillyname": "^0.1.0"
+  }
+}
